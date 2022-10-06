@@ -4,7 +4,7 @@ from gui import gui
 if __name__ == '__main__':
     my_gui = gui()
     #q.query()
-    #my_gui.run_master()
+    my_gui.run_master()
     #my_gui.master.mainloop()
     #tk_root = Tk()
     #root_gui = gui(tk_root)
